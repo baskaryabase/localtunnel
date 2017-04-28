@@ -24,8 +24,7 @@
     "heroku",
     "express"
   ],
-  "homepage": "https://github.com/smilysyndrella/resume#readme"
-},
+  "homepage": "https://github.com/smilysyndrella/resume#readme",
 "dependencies": {
     "express": "^4.15.2"
 }
